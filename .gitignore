@@ -1,0 +1,10 @@
+
+*.aux
+
+Docs/proposal/proposal.bbl
+
+Docs/proposal/proposal.blg
+
+Docs/proposal/proposal.log
+
+Docs/proposal/proposal.synctex.gz
