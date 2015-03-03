@@ -8,3 +8,7 @@ Docs/proposal/proposal.blg
 Docs/proposal/proposal.log
 
 Docs/proposal/proposal.synctex.gz
+
+*.log
+
+*.gz
