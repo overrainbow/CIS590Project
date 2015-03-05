@@ -3,36 +3,38 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paper.aux
 The style file: ieeetr.bst
 Database file #1: biblio.bib
-You've used 7 entries,
+Warning--entry type for "yerli" isn't style-file defined
+--line 12 of file biblio.bib
+You've used 8 entries,
             1876 wiz_defined-function locations,
-            517 strings with 4661 characters,
-and the built_in function-call counts, 1832 in all, are:
-= -- 183
-> -- 62
+            522 strings with 4831 characters,
+and the built_in function-call counts, 1964 in all, are:
+= -- 196
+> -- 66
 < -- 0
-+ -- 24
-- -- 17
-* -- 123
-:= -- 249
-add.period$ -- 7
-call.type$ -- 7
-change.case$ -- 7
++ -- 26
+- -- 18
+* -- 127
+:= -- 268
+add.period$ -- 9
+call.type$ -- 8
+change.case$ -- 8
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 86
-empty$ -- 177
-format.name$ -- 17
-if$ -- 463
+cite$ -- 8
+duplicate$ -- 90
+empty$ -- 195
+format.name$ -- 18
+if$ -- 497
 int.to.chr$ -- 0
-int.to.str$ -- 7
+int.to.str$ -- 8
 missing$ -- 5
-newline$ -- 26
-num.names$ -- 5
-pop$ -- 27
+newline$ -- 30
+num.names$ -- 6
+pop$ -- 34
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 74
+skip$ -- 77
 stack$ -- 0
 substring$ -- 130
 swap$ -- 41
@@ -41,6 +43,7 @@ text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 15
-width$ -- 8
-write$ -- 64
+while$ -- 16
+width$ -- 9
+write$ -- 73
+(There was 1 warning)
