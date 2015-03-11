@@ -25,6 +25,7 @@ C.~J. Ferguson, ``Violent video games and the supreme court: Lessons for the
 J.~Chakraborty and N.~M. Chakraborty, ``Public policy and violence in video
   games,'' {\em ACM Interactions}, pp.~64--67, January 2015.
 
+<<<<<<< Updated upstream:Docs/report/paper.bbl
 \bibitem{pegi}
 ``{PEGI - Pan European Game Information}.''
 \newblock http://www.pegi.info/en/index/.
@@ -38,6 +39,7 @@ D.~Coldewey, ``Crytek will abandon ship if germany bans action games,'' 2009.
 \newblock
   http://techcrunch.com/2009/08/05/crytek-will-abandon-ship-if-germany-bans-action-games/.
 
+<<<<<<< Updated upstream
 \bibitem{ferguson2008}
 C.~J. Ferguson, ``The school shooting/violent video game link: causal
   relationship or moral panic?,'' {\em Journal of Investigative Psychology and
@@ -56,4 +58,8 @@ P.~M. Markey, C.~N. Markey, and J.~E. French, ``Violent video games and
 J.~E. Cohen, ``Right to read anonymously: A closer look at copyright management
   in cyberspace, a,'' {\em Conn. L. Rev.}, vol.~28, p.~981, 1995.
 
+=======
+=======
+>>>>>>> Stashed changes:Docs/proposal/proposal.bbl
+>>>>>>> Stashed changes
 \end{thebibliography}
