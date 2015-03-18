@@ -1,64 +1,125 @@
 \begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{pegi}
+``{PEGI - Pan European Game Information},'' http://www.pegi.info/en/index/.
+ \begin{quotation}\noindent The homepage for the PEGI rating system.
+  \end{quotation}
+
+\bibitem{usk}
+``{USK Unterhaltungssoftware Selbstkontrolle},'' http://www.usk.de/en/.
+ \begin{quotation}\noindent The English homepage for Germany's USK rating
+  system. \end{quotation}
+
+\bibitem{yerli}
+\emph{Crytek will abandon ship if Germany bans action games}, 2009,
+  http://techcrunch.com/2009/08/05/crytek-will-abandon-ship-if-germany-bans-action-games/.
+ \begin{quotation}\noindent An article detailing Crytech's troubles with the
+  German government regarding violent game production. \end{quotation}
+
+\bibitem{makuch2013}
+\emph{Former FBI profiler says games do not cause violence}, 2013,
+  http://www.gamespot.com/articles/former-fbi-profiler-says-games-do-not-cause-violence/1100-6404409/.
+ \begin{quotation}\noindent An article detailing an interview with a former FBI
+  profiler who states that video games are not the main reason for violent
+  behavior. The article indicated games to be only a partial factor influencing
+  mostly individuals already inclined to violent behavior. \end{quotation}
+
+\bibitem{anderson2003}
+C.~A. Anderson, L.~Berkowitz, E.~Donnerstein, L.~R. Huesmann, J.~D. Johnson,
+  D.~Linz, N.~M. Malamuth, and E.~Wartella, ``The influence of media violence
+  on youth,'' \emph{Psychological Science in the Public Interest}, vol.~4,
+  no.~3, pp. 81 -- 110, December 2003.
+ \begin{quotation}\noindent This journal article is a review of the literature
+  surrounding media violence's influence on aggression. It argues that there is
+  a correlation between general media violence (including video games) and
+  increased violent behavior and reduced emotional reaction to violent acts.
+  \end{quotation}
 
 \bibitem{barlett2009}
 C.~P. Barlett, C.~A. Anderson, and E.~L. Swing, ``Video game effects --
-  confirmed, suspected, and speculative: A review of evidence,'' {\em
-  Simulation and Gaming}, vol.~40, pp.~377 -- 403, June 2009.
+  confirmed, suspected, and speculative: A review of evidence,''
+  \emph{Simulation and Gaming}, vol.~40, no.~3, pp. 377 -- 403, June 2009.
+ \begin{quotation}\noindent A literature review of both positive and negative
+  effects of video games. The review shows that, while some non-violent video
+  games may have positive effects, games with violent content generally produce
+  negative outcomes such as aggressive feelings, thoughts, and behavior, and
+  desensitization. \end{quotation}
 
-\bibitem{gentile2004}
-D.~A. Gentile, P.~J. Lynch, J.~R. Linder, and D.~A. Walsh, ``The effects of
-  violen video game habits on adolescent hostility, aggressive behaviors, and
-  school performance,'' {\em Journal of Adolescence}, vol.~27, pp.~5--22, 2004.
-
-\bibitem{anderson2003}
-C.~A. Anderson, L.~Berkowitz, L.~R. Donnerstein, Edward~andHuesmann, J.~D.
-  Johnson, D.~Linz, N.~M. Malamuth, and E.~Wartella, ``The influence of media
-  violence on youth,'' {\em Psychological Science in the Public Interest},
-  vol.~4, pp.~81 -- 110, December 2003.
-
-\bibitem{ferguson2013}
-C.~J. Ferguson, ``Violent video games and the supreme court: Lessons for the
-  scientific community in the wake of brown v. entertainment merchants
-  association,'' {\em American Psychologist}, pp.~57 -- 74, 2013.
-
-\bibitem{ferguson2008}
-C.~J. Ferguson, ``The school shooting/violent video game link: causal
-  relationship or moral panic?,'' {\em Journal of Investigative Psychology and
-  Offender Profiling}, vol.~5, no.~1-2, pp.~25--37, 2008.
-
-\bibitem{makuch2013}
-E.~Makuch, ``Former fbi profiler says games do not cause violence,'' 2013.
-\newblock
-  http://www.gamespot.com/articles/former-fbi-profiler-says-games-do-not-cause-violence/1100-6404409/.
-
-\bibitem{markey2014}
-P.~M. Markey, C.~N. Markey, and J.~E. French, ``Violent video games and
-  real-world violence: Rhetoric versus data.,'' 2014.
-
-\bibitem{pegi}
-``{PEGI - Pan European Game Information}.''
-\newblock http://www.pegi.info/en/index/.
-
-\bibitem{usk}
-``{USK Unterhaltungssoftware Selbstkontrolle}.''
-\newblock http://www.usk.de/en/.
-
-\bibitem{yerli}
-D.~Coldewey, ``Crytek will abandon ship if germany bans action games,'' 2009.
-\newblock
-  http://techcrunch.com/2009/08/05/crytek-will-abandon-ship-if-germany-bans-action-games/.
+\bibitem{bjorkqvist1985}
+K.~Bjorkqvist, ``Violent films, anxiety, and aggression,'' \emph{Finnish
+  Society of Sciences and Letters.}, 1985.
+ \begin{quotation}\noindent A Finnish study showing increased physically
+  aggressive behavior in children who watched violent films. \end{quotation}
 
 \bibitem{cohen1995}
 J.~E. Cohen, ``Right to read anonymously: A closer look at copyright management
-  in cyberspace, a,'' {\em Conn. L. Rev.}, vol.~28, p.~981, 1995.
+  in cyberspace, a,'' \emph{Conn. L. Rev.}, vol.~28, p. 981, 1995.
+ \begin{quotation}\noindent One of the references from our reading in class
+  which discusses anonymity when consuming intellectual property.
+  \end{quotation}
 
-\bibitem{bjorkqvist1985}
-K.~Bjorkqvist, ``Violent films, anxiety, and aggression,'' {\em Finnish Society
-  of Sciences and Letters.}, 1985.
+\bibitem{ferguson2013}
+C.~Ferguson, ``{Violent Video Games and the Supreme Court: Lessons for the
+  Scientific Community in the Wake of Brown v. Entertainment Merchants
+  Association},'' \emph{American Psychologist}, pp. 57 -- 74, 2013.
+ \begin{quotation}\noindent In this journal article, the author examines some
+  flaws in the current literature on the link between video games and violence.
+  He further suggests future steps to be taken by psychology researchers to
+  further examine the subject. \end{quotation}
+
+\bibitem{ferguson2008}
+C.~J. Ferguson, ``The school shooting/violent video game link: causal
+  relationship or moral panic?'' \emph{Journal of Investigative Psychology and
+  Offender Profiling}, vol.~5, no. 1-2, pp. 25--37, 2008.
+ \begin{quotation}\noindent A journal article reviewing the current literature
+  on the link between violent acts and video game play. This review shows the
+  fault in the logic of many previous studies and further states there is no
+  relationship between the two based on real violent crime incident data.
+  \end{quotation}
+
+\bibitem{gentile2004}
+D.~A. Gentile, P.~J. Lynch, J.~R. Linder, and D.~A. Walsh, ``The effects of
+  violent video game habits on adolescent hostility, aggressive behaviors, and
+  school performance,'' \emph{Journal of Adolescence}, vol.~27, pp. 5--22,
+  2004.
+ \begin{quotation}\noindent A journal article showing via a survey study that
+  increased video game play in children positively correlated with lower
+  academic scores and increased arguments and conflicts. \end{quotation}
 
 \bibitem{josephson1987}
 W.~L. Josephson, ``Television violence and children's aggression: testing the
-  priming, social script, and disinhibition predictions.,'' {\em Journal of
-  personality and social psychology}, vol.~53, no.~5, p.~882, 1987.
+  priming, social script, and disinhibition predictions.'' \emph{Journal of
+  personality and social psychology}, vol.~53, no.~5, p. 882, 1987.
+ \begin{quotation}\noindent A journal article demonstrating a positive
+  correlation between television violence and aggression in children. This
+  study showed children who watched physical aggression in a hockey movie
+  before playing the sport acted more violently than those who did not watch
+  such films. \end{quotation}
+
+\bibitem{markey2014}
+P.~M. Markey, C.~N. Markey, and J.~E. French, ``Violent video games and
+  real-world violence: Rhetoric versus data.'' 2014.
+ \begin{quotation}\noindent This study examined real-world data of serious
+  violent crimes and data about violent video games, such as game sales, and
+  searches for game guides or videos. The results showed a decrease in violent
+  crime in response to violent video games. \end{quotation}
 
 \end{thebibliography}
